@@ -11,5 +11,5 @@ Some of my interest are:
 ### My research work:
 - <a href="https://www.mdpi.com/1424-8220/22/15/5892" tittle="Fuzzy Edge-Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification">Fuzzy Edge-Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification</a>
 
-### Inqueries
+### Inquiries
 - 📬 <me@cesartorres.org>
