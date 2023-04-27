@@ -1,5 +1,5 @@
 ## Hello there!
-👋 Hi, I’m Cesar Torres {@CESARIUX2596}, a Machine Learning Engineer with an academic background in computer science and a passion for computer vision and Linux. I am currently completing my Master's thesis in computer science at TecNM/Tijuana Institute of Technology.
+👋 Hi, I’m Cesar Torres {@CESARIUX2596}, a Machine Learning Engineer with an academic background in computer science (MSc. in Soft Computing) and a passion for computer vision and Linux. I am currently looking for industry experience and to collaborate on new publications in the field.
 <br/>
 Some of my interest are:
 - 🎸
