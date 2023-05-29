@@ -8,7 +8,7 @@ Some of my interest are:
 - 🎮
 - 🍳
 
-### Currently working on
+### Currently working on:
 - Brain degenerative deseases
 - Syntetic Image generation
 - LLM's
