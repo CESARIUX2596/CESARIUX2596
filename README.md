@@ -9,7 +9,7 @@ Some of my interest are:
 - 🍳
 
 ### Currently working on:
-- Brain degenerative diseases.
+- Brain Degenerative Diseases.
 - Syntetic Image Generation (Diffussion and GANs).
 - LLMs.
 - Multimodal Learning.
