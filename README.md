@@ -10,10 +10,11 @@ Some of my interest are:
 
 ### Currently working on:
 - Brain Degenerative Diseases.
+- Fuzzy Image Processing.
+- Visual Transformers.
 - Syntetic Image Generation (Diffussion and GANs).
 - LLMs.
 - Multimodal Learning.
-- Fuzzy Image Processing.
 
 ### My research work:
 - <a href="https://www.mdpi.com/1424-8220/22/15/5892" tittle="Fuzzy Edge-Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification">Fuzzy Edge-Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification.</a>
