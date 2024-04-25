@@ -1,20 +1,21 @@
 ## Hello there!
-👋 Hi, I’m Cesar Torres {@CESARIUX2596}, a Machine Learning Engineer with an academic background in computer science (MSc. in Soft Computing) and a passion for computer vision and Linux. I am currently looking for industry experience and to collaborate on new publications in the field.
+👋 Hi, I’m Cesar Torres {@CESARIUX2596}, a Machine Learning Engineer with an academic background in computer science (MSc. in Soft Computing) and a passion for Deep Learning and Linux. I am currently looking for industry experience and to collaborate on new publications in the field.
 <br/>
 Some of my interest are:
-- 🎸
+- 🎸 
 - 🏎️
 - 💻
 - 🎮
 - 🍳
 
 ### Currently working on:
-- Brain Degenerative Diseases.
+- LLMs.
+- Edge Computing.
 - Fuzzy Image Processing.
 - Visual Transformers.
-- Syntetic Image Generation (Diffussion and GANs).
-- LLMs.
+- Syntetic Image Generation (Diffussion and GANs). 
 - Multimodal Learning.
+- Self Hosted Services.
 - Cool stuff under an NDA 🤫.
 ### My research work:
 - <a href="https://www.mdpi.com/1424-8220/22/15/5892" tittle="Fuzzy Edge-Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification">Fuzzy Edge-Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification.</a>
