@@ -9,7 +9,7 @@ Some of my interest are:
 - 🍳
 
 ### Currently working on:
-- Generative AI (LLMs, Diffusion Models, GANs)
+- Generative AI (LLMs, Diffusion Models, GANs).
 - Edge Computing.
 - Fuzzy Image Processing.
 - Visual Transformers.
