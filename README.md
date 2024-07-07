@@ -1,5 +1,5 @@
 ## Hello there!
-👋 Hi, I’m Cesar Torres {@CESARIUX2596}, a Machine Learning Engineer with an academic background in computer science (MSc. in Soft Computing) and a passion for Deep Learning and Linux. I am currently looking for industry experience and to collaborate on new publications in the field.
+👋 Hi, I’m Cesar Torres {@CESARIUX2596}, a Machine Learning Engineer with an academic background in computer science (MSc. in Soft Computing) and a passion for Deep Learning and Linux. I am currently pursuing a ScD in Computer Science (Artificial Intelligence) and am looking for industry experience and opportunities to collaborate on new publications in the field.
 <br/>
 Some of my interest are:
 - 🎸 
