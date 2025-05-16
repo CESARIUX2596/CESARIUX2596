@@ -18,17 +18,8 @@ Some of my interest are:
 - 🎸 Playing old school metalcore riffs.
 - 🏎️ Cars and racing.
 - 💻 Hosting new services locally to automate my house.
-- 🎮 Gaming & modding.
-- 🍳 Cooking
-
-### Currently working on:
-- Generative AI (LLMs, Diffusion Models, GANs).
-- Edge Computing.
-- Fuzzy Image Processing.
-- Visual Transformers.
-- Multimodal Learning.
-- Self Hosted Services.
-- Cool stuff under an NDA 🤫.
+- 🎮 Gaming (Sim racing, rouge like, and survival).
+- 🍳 Cooking.
 
 ### My research work:
 - <a >Efficient Domain-Specific LLMs: Energy Profiling in Medical QA Tasks. Accepted for presentation and publication at IJCNN 2025</a>
