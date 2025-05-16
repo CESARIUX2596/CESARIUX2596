@@ -30,4 +30,6 @@ Some of my interest are:
 - <a href="https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219369" title="Fuzzy Convolutional Neural Network Model Applied to Classification Problems">Fuzzy Convolutional Neural Network Model Applied to Classification Problems.</a>
 
 ### Inquiries
-- 📬 Reach me at: **me[at]cesartorres.org**
+- 📫 Reach me at: **me[at]cesartorres.org**  
+- 📄 [View my resume](https://cesariux2596.dev/assets/ResumeCesarTorres.pdf)
+
