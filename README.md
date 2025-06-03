@@ -29,6 +29,10 @@ Some of my interest are:
 - <a href="https://ieeexplore.ieee.org/document/10458559" title="Type-2 Fuzzy Image Enhancement to Improve the Performance of Convolutional Neural Networks">Type-2 Fuzzy Image Enhancement to Improve the Performance of Convolutional Neural Networks.</a>
 - <a href="https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219369" title="Fuzzy Convolutional Neural Network Model Applied to Classification Problems">Fuzzy Convolutional Neural Network Model Applied to Classification Problems.</a>
 
+### 🛠️ Projects
+
+- **[myhomepage.app](https://myhomepage.app)** – A minimalist customizable homepage for organizing links and quick access to favorite websites.
+
 ### Inquiries
 - 📫 Reach me at: **me[at]cesartorres.org**  
 - 📄 [View my resume](https://cesariux2596.dev/assets/ResumeCesarTorres.pdf)
