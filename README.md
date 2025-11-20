@@ -13,7 +13,7 @@ I'm passionate about **deep learning**, **Linux**, and building AI tools that ma
 - 🐧 Fuzzy Systems & Image Preprocessing.
 - 🏠 Self-Hosted Systems.
 - 🔐 Cool stuff under NDA.
-- 
+
 Some of my interest are:
 - 🎸 Playing old school metalcore riffs.
 - 🏎️ Cars and racing.
