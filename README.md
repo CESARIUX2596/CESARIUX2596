@@ -22,8 +22,9 @@ Some of my interest are:
 - 🍳 Cooking.
 
 ### My research work:
-- <a >Efficient Domain-Specific LLMs: Energy Profiling in Medical QA Tasks. Accepted for presentation and publication at IJCNN 2025</a>
+- <a href="https://doi.org/10.1109/IJCNN64981.2025.11227973" title="Efficient Domain-Specific LLMs: Energy Profiling in Medical QA Tasks">Efficient Domain-Specific LLMs: Energy Profiling in Medical QA Tasks.</a>
 - <a href="https://doi.org/10.1007/978-3-031-83879-8_9" title="Automated Insights: LLMs in Neurodegenerative Disease Research and Comparison">Automated Insights: LLMs in Neurodegenerative Disease Research and Comparison.</a>
+- <a href="https://www.cys.cic.ipn.mx/index.php/CyS/article/view/6315" title="Automated Insights: LLMs in Neurodegenerative Disease Research and Comparison (Journal Version, ISSN 2007-9737)">Automated Insights: LLMs in Neurodegenerative Disease Research and Comparison (Journal Version).</a>
 - <a href="https://www.mdpi.com/1424-8220/22/15/5892" title="Fuzzy Edge Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification">Fuzzy Edge Detection as a Preprocessing Layer in Deep Neural Networks for Guitar Classification.</a>
 - <a href="https://link.springer.com/chapter/10.1007/978-3-031-28999-6_5" title="Traffic Sign Recognition Using Fuzzy Preprocessing and Deep Neural Networks">Traffic Sign Recognition Using Fuzzy Preprocessing and Deep Neural Networks.</a>
 - <a href="https://ieeexplore.ieee.org/document/10458559" title="Type-2 Fuzzy Image Enhancement to Improve the Performance of Convolutional Neural Networks">Type-2 Fuzzy Image Enhancement to Improve the Performance of Convolutional Neural Networks.</a>
@@ -32,6 +33,7 @@ Some of my interest are:
 ### 🛠️ Projects
 
 - **[myhomepage.app](https://myhomepage.app)** – A minimalist customizable homepage for organizing links and quick access to favorite websites.
+- **[TodayTomorrowYesterday.app](https://app.todaytomorrowyesterday.app)** – A life hub that unifies your notes, tasks, calendar, and data across devices (Beta).
 
 ### Inquiries
 - 📫 Reach me at: **me[at]cesartorres.org**  
