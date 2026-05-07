@@ -33,7 +33,7 @@ Some of my interest are:
 ### 🛠️ Projects
 
 - **[myhomepage.app](https://myhomepage.app)** – A minimalist customizable homepage for organizing links and quick access to favorite websites.
-- **[TodayTomorrowYesterday.app](https://app.todaytomorrowyesterday.app)** – A life hub that unifies your notes, tasks, calendar, and data across devices (Beta).
+- **[TodayTomorrowYesterday.app](https://todaytomorrowyesterday.app)** – A life hub that unifies your notes, tasks, calendar, and data across devices (Beta).
 
 ### Inquiries
 - 📫 Reach me at: **me[at]cesartorres.org**  
